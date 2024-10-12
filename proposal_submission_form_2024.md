@@ -26,11 +26,11 @@
 > As a potential new customer, how can we leverage the mobile app to help new patients better understand what services are available to them?
 - [ ] Managing my health
 > Itâ€™s easy to get overwhelmed by all the tasks patients often have to do to maintain their health, how can we make managing health more enjoyable?
-- [ ] Addressing mental health challenges
+- [X] Addressing mental health challenges
 > Mental health challenges may be difficult to identify and have a broad impact on health, how can we help clinicians be more in tune with patients mental health needs?
 
 #### Optional Questions. `TEAMS CAN SELECT ONE ADDITIONAL OPTIONAL QUESTION (insert X in [ ])`
-- [ ] Cultural Competence in Healthcare
+- [X] Cultural Competence in Healthcare
 > How can we design a mobile app that helps healthcare providers better understand and respect cultural differences, improving communication and care for diverse patient populations?
 - [ ] Access to Care for Rural and Remote Communities
 > How can we leverage technology to improve healthcare access for rural and remote communities, ensuring timely and specialized care for those in underserved areas? (Focus on SDSU Imperial Valley Connection - Rural/Remote)
@@ -40,7 +40,7 @@
 > How can we leverage big (geospatial) data analytics and AI to improve access to resources that mitigate the impact of environmental factors, i.e. pollution, on health disparities?
 
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `dannabun`
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members `Danna Bundogji, Marlena Ngim, Alina Garcia, Diya Vats`
 
