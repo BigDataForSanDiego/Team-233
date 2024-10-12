@@ -5,7 +5,7 @@
 #### Team Name: `Glitch Girls`    
   
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `We’re adding a journaling feature to the SHARP health app for patients to log emotional and physical health, enabling AI to detect key issues, provide timely resources, and notify doctors for streamlined care, making health management more accessible.`
 
 
 #### A visual
